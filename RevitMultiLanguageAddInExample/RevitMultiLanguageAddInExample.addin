@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitMultiLanguageAddInExample</Name>
+    <Assembly>RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample.dll</Assembly>
+    <AddInId>{A1321413-522B-4DFE-905E-61B371C1B135}</AddInId>
+    <FullClassName>Bushman.RevitMultiLanguageAddInExample.ExternalApplication</FullClassName>
+    <VendorId>BUSHMAN</VendorId>
+    <VendorDescription>GPSM</VendorDescription>
+  </AddIn>
+</RevitAddIns>

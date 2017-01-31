@@ -1,0 +1,9 @@
+C:\Users\root\AppData\Roaming\Autodesk\Revit\Addins\2017\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample.dll
+C:\Users\root\AppData\Roaming\Autodesk\Revit\Addins\2017\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample.pdb
+C:\Users\root\AppData\Roaming\Autodesk\Revit\Addins\2017\RevitMultiLanguageAddInExample\ru\RevitMultiLanguageAddInExample.resources.dll
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\Bushman.RevitMultiLanguageAddInExample.Properties.Resources.resources
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\Bushman.RevitMultiLanguageAddInExample.Properties.Resources.ru.resources
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\RevitMultiLanguageAddInExample.csproj.GenerateResource.Cache
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\ru\RevitMultiLanguageAddInExample.resources.dll
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\RevitMultiLanguageAddInExample.dll
+D:\projects\vs\RevitMultiLanguageAddInExample\RevitMultiLanguageAddInExample\obj\Debug\RevitMultiLanguageAddInExample.pdb
